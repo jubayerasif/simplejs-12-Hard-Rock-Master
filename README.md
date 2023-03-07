@@ -8,3 +8,6 @@ example: https://api.lyrics.ovh/suggest/hello
 lyric link: https://api.lyrics.ovh/v1/:artist/:title
 
 example: https://api.lyrics.ovh/v1/Adele/Hello
+
+
+Link: https://jubayerasif.github.io/simplejs-12-Hard-Rock-Master/
