@@ -2,6 +2,7 @@ body{
     background: url(../images/bg-image.jpg)no-repeat;
     background-size: cover;
     height: 100vh;
+    background-color: #AB116F;
     color: #ffffff;
 }
 .form-control{
@@ -13,11 +14,6 @@ body{
 .btn{
     border-radius: 1.5rem;
     padding: 9px 20px;
-}
-
-.btn-privious{
-    background: rgba(255, 255, 255, 0.2);
-    color: #ffffff;
 }
 .navbar-toggler {
     border: none;
@@ -35,4 +31,3 @@ body{
     background: rgba(255, 255, 255, 0.2);
     border-radius: 15px;
 }
-
